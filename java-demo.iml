@@ -42,6 +42,8 @@
     <orderEntry type="library" name="Maven: org.mybatis:mybatis-spring:2.0.4" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:druid:1.1.22" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: mysql:mysql-connector-java:5.1.32" level="project" />
+    <orderEntry type="library" name="Maven: com.google.zxing:core:3.3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.12" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.plugins:maven-project-info-reports-plugin:maven-plugin:3.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.reporting:maven-reporting-api:3.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.reporting:maven-reporting-impl:3.0.0" level="project" />

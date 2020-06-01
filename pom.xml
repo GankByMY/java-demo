@@ -44,11 +44,20 @@
       <scope>runtime</scope>
     </dependency>
 
+    <!-- 二维码识别-->
     <!-- https://mvnrepository.com/artifact/com.google.zxing/core -->
     <dependency>
       <groupId>com.google.zxing</groupId>
       <artifactId>core</artifactId>
       <version>3.3.0</version>
+    </dependency>
+
+    <!-- lombok   -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>RELEASE</version>
+      <scope>compile</scope>
     </dependency>
 
     <!-- maven-plugins   -->

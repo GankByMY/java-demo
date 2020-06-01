@@ -6,6 +6,9 @@ package org.xielei.designpatterns;
  */
 public class SingleTon {
 
+    /**
+     * 懒加载模式
+     */
     static class LazySingleTon {
 
         private static volatile LazySingleTon lazySingleTon = null;
@@ -23,9 +26,12 @@ public class SingleTon {
         }
     }
 
+    /**
+     * 饿汉式加载
+     */
     static class HungrySingleTon {
 
-        private static final HungrySingleTon hungrySingleTon = null;
+        private static final HungrySingleTon hungrySingleTon = new HungrySingleTon();
 
         private HungrySingleTon() {
             System.out.println("init HungrySingleTon");
