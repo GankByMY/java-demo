@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1888cca9-a384-4095-9b51-2ec19b948cab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/share/maven" />
+        <option name="userSettingsFile" value="/usr/share/maven/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ciPCpgM8kvE5RzBhwyUvUUdTzJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1888cca9-a384-4095-9b51-2ec19b948cab" name="Default Changelist" comment="" />
+      <created>1591008315391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591008315391</updated>
+      <workItem from="1591008317800" duration="348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="188" width="800" height="677" key="#Project_Structure" timestamp="1591008331633">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state x="555" y="188" width="800" height="677" key="#Project_Structure/0.27.1920.1002/1920.0.1920.1080@0.27.1920.1002" timestamp="1591008331633" />
+    <state x="269" y="128" width="1372" height="798" key="new project wizard" timestamp="1591008514445">
+      <screen x="0" y="27" width="1920" height="1002" />
+    </state>
+    <state x="269" y="128" width="1372" height="798" key="new project wizard/0.27.1920.1002/1920.0.1920.1080@0.27.1920.1002" timestamp="1591008514445" />
+  </component>
+</project>
