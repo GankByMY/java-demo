@@ -1,4 +1,4 @@
-package org.xielei.designpatterns;
+package org.xielei.designpatterns.creational;
 
 import org.junit.After;
 import org.junit.Before;

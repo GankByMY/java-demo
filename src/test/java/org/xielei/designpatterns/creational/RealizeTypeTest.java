@@ -1,8 +1,7 @@
-package org.xielei.designpatterns;
+package org.xielei.designpatterns.creational;
 
 import org.junit.Test;
-
-import static org.junit.Assert.*;
+import org.xielei.designpatterns.creational.RealizeType;
 
 public class RealizeTypeTest {
 

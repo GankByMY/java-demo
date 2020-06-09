@@ -1,7 +1,7 @@
-package org.xielei.designpatterns;
+package org.xielei.designpatterns.creational;
 
 /**
- * RealizeType
+ * 原型模式
  *
  * 用一个已经创建的实例作为原型，通过复制该原型对象来创建一个和原型相同或相似的新对象。
  * 在这里，原型实例指定了要创建的对象的种类。
@@ -25,6 +25,12 @@ public class RealizeType implements Cloneable{
         System.out.println("RealizeType create");
     }
 
+    /**
+     * 浅克隆
+     *
+     * @return Object
+     * @throws CloneNotSupportedException
+     */
     @Override
     public Object clone() throws CloneNotSupportedException {
         System.out.println("clone realizeType");
