@@ -1,4 +1,4 @@
-package org.xielei.designpatterns.creational;
+package org.xielei.designpatterns.creational.singleton;
 
 /**
  * 单例模式
