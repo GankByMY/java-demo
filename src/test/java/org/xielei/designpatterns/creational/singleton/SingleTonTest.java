@@ -1,9 +1,8 @@
-package org.xielei.designpatterns.creational;
+package org.xielei.designpatterns.creational.singleton;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.xielei.designpatterns.creational.singleton.SingleTon;
 
 public class SingleTonTest {
 

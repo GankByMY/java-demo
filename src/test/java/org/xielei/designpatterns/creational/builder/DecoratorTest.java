@@ -5,7 +5,7 @@ import org.junit.Test;
 public class DecoratorTest {
 
     @Test
-    public void getRoom() {
+    public void decorateOne() {
         // 具体装修者
         Decorator decorator = new ConcreteDecoratorOne();
         // 指挥者构建
@@ -14,12 +14,14 @@ public class DecoratorTest {
         Room decorateOne = projectManager.buildRoom();
 
         System.out.println("最后生成的 room one:" + decorateOne);
+    }
 
-        System.out.println("------------------------");
+    @Test
+    public void decorateTwo() {
+        // 具体装修者
+        Decorator decorator = new ConcreteDecoratorTwo();
 
-        decorator = new ConcreteDecoratorTwo();
-
-        projectManager = new ProjectManager(decorator);
+        ProjectManager projectManager = new ProjectManager(decorator);
 
         Room decorateTwo = projectManager.buildRoom();
 

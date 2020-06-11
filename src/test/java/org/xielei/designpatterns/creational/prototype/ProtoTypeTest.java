@@ -1,4 +1,4 @@
-package org.xielei.designpatterns.creational;
+package org.xielei.designpatterns.creational.prototype;
 
 import org.junit.Test;
 import org.xielei.designpatterns.creational.protoType.ProtoType;
