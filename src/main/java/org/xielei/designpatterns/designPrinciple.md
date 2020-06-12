@@ -26,7 +26,7 @@
 * [单例（Singleton）模式](creational/singleton/A_sigleTon.md)：
 某个类只能生成一个实例，该类提供了一个全局访问点供外部获取该实例，其拓展是有限多例模式。
 
-* [原型（Prototype）模式](creational/protoType/A_realizeType.md)：
+* [原型（Prototype）模式](creational/protoType/A_protoType.md)：
 将一个对象作为原型，通过对其进行复制而克隆出多个和原型类似的新实例。
 
 * [工厂方法（Factory Method）模式](creational/factorymethod/A_factoryMethod.md)：
